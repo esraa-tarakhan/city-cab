@@ -31,6 +31,13 @@
 #### Test notification
 -> using cloud messaging  
 ->delete services  and add <intent filter > to mainfest.xml   
-->using postman    using header and body 
-->
+->using #####postman    using header and body and url 
+##### to update the current location
+  -> Install PACKAGE flutter-geofire 
+  ->change realtime databse rule  
+  ->geofire .initialize("activeDrivers")<- collection name to listen  
+  -> geofire.setLoction()-<add data to collection  
+   ->streamSubscripe update to position 
+                                           
+                                         
 
