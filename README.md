@@ -14,7 +14,7 @@
 ->add permissions to  mainfest.xml file .  
 ->if you use AVD set loaction for emulator.  
 ->ask user permission using  widget .  
--> "google" word must appear over the map .for google play puplish.  
+-> "*google*" word must appear over the map .for google play puplish.  
 
 #### to get readable adress from credintial 
 ->Enaple grocoding API from here   
@@ -24,14 +24,14 @@
 ->get your country short name ex:EG  
 #### to draw a polyline from source to destination   
 ->Enable directions API from here  
-### configuration the push notification system FCM
+### configuration the push notification system *FCM*
 ->install package firebase messaging  
 -> make a topic  
 ->generate token 
 #### Test notification
 -> using cloud messaging  
 ->delete services  and add <intent filter > to mainfest.xml   
-->using #####postman    using header and body and url 
+->using **postman**    using header and body and url 
 ##### to update the current location
   -> Install PACKAGE flutter-geofire 
   ->change realtime databse rule  
