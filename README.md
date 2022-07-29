@@ -10,10 +10,10 @@
 -> add it to mainfest,xml file
 
 #### get current loaction
--> Install package "geolocator"
-->add permissions to  mainfest.xml file .
-->if you use AVD set loaction for emulator.
-->ask user permission using  widget .
--> "google" word must appear over the map .for google play puplish.
+-> Install package "geolocator"  
+->add permissions to  mainfest.xml file .  
+->if you use AVD set loaction for emulator.  
+->ask user permission using  widget .  
+-> "google" word must appear over the map .for google play puplish.  
 ->
 
